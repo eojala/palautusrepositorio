@@ -1,0 +1,7 @@
+title Single Page App (SPA)
+
+note over selain:
+Kun "save" -nappia painetaan.
+end note
+
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
